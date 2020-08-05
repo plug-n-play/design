@@ -1,0 +1,7 @@
+export {default as Danger1} from './dangerPatterns1.png'
+export {default as Danger2} from './dangerPatterns2.png'
+export {default as Danger3} from './dangerPatterns3.png'
+export {default as Danger4} from './dangerPatterns4.png'
+export {default as Danger5} from './dangerPatterns5.png'
+export {default as Danger6} from './dangerPatterns6.png'
+export {default as Danger7} from './dangerPatterns7.png'
